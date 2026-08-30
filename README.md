@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-    <img alt="Christian Xavier Nieto - Software Developer, Game Systems. Panama, UTC-5, remote." src="./assets/header-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.png">
+    <img alt="Christian Xavier Nieto - Software Developer, Game Systems. Panama, UTC-5, remote." src="./assets/header-light.png" width="100%">
   </picture>
 </p>
 
@@ -35,13 +35,26 @@ Lead programmer. Full game shipped in 9 days with a team of 3, among 100+ partic
 
 ## Stack
 
-| Area | Tools |
-|---|---|
-| Languages | C++ · C# · TypeScript · JavaScript · Python · PHP |
-| Game dev | Unity |
-| Web | React · HTML/CSS |
-| Data | MySQL |
-| Tooling | Git · GitHub · VS Code |
+```yaml
+$ cookiefetch
+            .,,,,'.                 christian@panama
+        .',;:::::::;;;,,,.          ----------------
+      ';::::::::;;;:::::::;,.       Role: Software Developer, Game Systems
+     ,::::::::::oxl::::::::::,.     Company: LUGANI S.A. (since 2023)
+   ';::;;:;;::;dMMM::::;;;:::::.    Languages: 'C++', 'C#', 'TypeScript', 'PHP'
+ ':::::cKNXo;:::oxl:::;loc;::;:'    Engine: 'Unity'
+.::::;;cWMMx;:::;;;;:,kMMMl;:::,    Web: 'React', 'MySQL', 'Git'
+ ;:::coc;c:;;::;::;0W0l0KOcc::::'   Location: 'Panama, UTC-5, remote'
+ ,:;:WMN::;cKNNk;:;xOd,,;,KMX::::.  Shipped: 'No Time To Do' (9-day jam, lead dev)
+ ,:::llc:;;lMMMK;::;okkl;;odl::::.  Other: 'Student Council President', 'GPA 3.86'
+ .:::;dWMk;;:ll;::;cMMM0;XWXc;::,
+  '::;dKXd;::;;;:;::lxd::OX0c;:;    contacts
+   ,::;;;,lWMklNWK::;;;::;;;::;.    --------
+    ,:::::cO0olXNK::::::::::,.      LinkedIn: 'in/christian-xavier-nieto'
+     ,;::::;;;;;;;;:::::::,.        itch.io: 'ryquedev.itch.io'
+       ...',;:::::::::::,.          Linktree: 'linktr.ee/christianxnietog'
+             ..'''''''..
+```
 
 Deepening right now: C++ systems programming and TypeScript on the web side.
 
