@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 280" width="1280" height="280" role="img" aria-label="Christian Xavier Nieto - Software Developer, Game Systems">
+  <defs>
+    <pattern id="dots-light" x="0" y="0" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="3" r="1.8" fill="#0E7C86" fill-opacity="0.55"/>
+    </pattern>
+    <linearGradient id="veil-light" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="1"/>
+      <stop offset="70%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="280" rx="16" fill="#FFFFFF"/>
+  <rect x="760" y="0" width="520" height="280" fill="url(#dots-light)"/>
+  <rect x="760" y="0" width="520" height="280" fill="url(#veil-light)"/>
+  <rect x="1" y="1" width="1278" height="278" rx="16" fill="none" stroke="#D0D7DE" stroke-width="2"/>
+
+  <rect x="72" y="86" width="4" height="108" rx="2" fill="#0E7C86"/>
+
+  <text x="104" y="126" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="46" font-weight="700" fill="#1F2328">Christian Xavier Nieto</text>
+  <text x="104" y="166" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="24" font-weight="600" fill="#0E7C86">Software Developer &#183; Game Systems</text>
+  <text x="104" y="200" font-family="SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="16" fill="#57606A">Unity &#183; C# &#183; C++ &#183; TypeScript &#183; PHP &#183; MySQL</text>
+
+  <text x="1208" y="240" text-anchor="end" font-family="SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="15" fill="#57606A">Panama &#183; UTC-5 &#183; remote</text>
+</svg>
